@@ -19,13 +19,14 @@ https://hulycloneab.netlify.app/
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/cf94d98d-0ce5-4a59-9bbf-cc960ad0b9d3)
+![image](https://github.com/user-attachments/assets/a068c858-7264-44eb-aa61-31d74207af5a)
 
-![image](https://github.com/user-attachments/assets/35ca57f2-6406-4030-b8cf-14bd16b67444)
+![image](https://github.com/user-attachments/assets/95cae69c-eb15-4385-91de-4531552c217e)
 
-![image](https://github.com/user-attachments/assets/43011cc3-8eae-45a9-943c-4b23e250e0a2)
+![image](https://github.com/user-attachments/assets/c8192129-6996-4473-9e3f-66d27a5a465b)
 
-![image](https://github.com/user-attachments/assets/338e9e7e-801e-4f67-afdb-11253ac2e6f8)
+![image](https://github.com/user-attachments/assets/a48960eb-9e46-49a1-ae28-ffab69ff47dd)
+
 
 ## Getting Started
 
