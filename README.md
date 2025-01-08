@@ -14,6 +14,9 @@ Huly Clone is a modern web application inspired by Huly. It features a responsiv
 - **Icons:** Lucide React
 - **Tools:** Node.js, npm
 
+## Live at
+https://hulycloneab.netlify.app/
+
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/cf94d98d-0ce5-4a59-9bbf-cc960ad0b9d3)
@@ -98,4 +101,5 @@ For questions or feedback, please reach out:
 
 - GitHub: [Abhicode07](https://github.com/Abhicode07)
 - Email: abhibhavsar1520@gmail.com
+- Deployed at: [HulyCloneAB](https://hulycloneab.netlify.app/)
 
