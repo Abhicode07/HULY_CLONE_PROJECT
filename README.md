@@ -14,6 +14,16 @@ Huly Clone is a modern web application inspired by Huly. It features a responsiv
 - **Icons:** Lucide React
 - **Tools:** Node.js, npm
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/cf94d98d-0ce5-4a59-9bbf-cc960ad0b9d3)
+
+![image](https://github.com/user-attachments/assets/35ca57f2-6406-4030-b8cf-14bd16b67444)
+
+![image](https://github.com/user-attachments/assets/43011cc3-8eae-45a9-943c-4b23e250e0a2)
+
+![image](https://github.com/user-attachments/assets/338e9e7e-801e-4f67-afdb-11253ac2e6f8)
+
 ## Getting Started
 
 Follow the steps below to run the project locally:
@@ -86,6 +96,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or feedback, please reach out:
 
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your-email@example.com
+- GitHub: [Abhicode07](https://github.com/Abhicode07)
+- Email: abhibhavsar1520@gmail.com
 
