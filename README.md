@@ -10,7 +10,7 @@ Huly Clone is a modern web application inspired by Huly. It features a responsiv
 
 ## Tech Stack
 
-- **Frontend:** React, Next.js, Tailwind CSS
+- **Frontend:** React, Next.js, Tailwind CSS, Typescript
 - **Icons:** Lucide React
 - **Tools:** Node.js, npm
 
@@ -87,9 +87,6 @@ To customize the footer with your own links and social media profiles:
    </a>
    ```
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
