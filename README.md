@@ -1,37 +1,91 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Huly Clone
+
+Huly Clone is a modern web application inspired by Huly. It features a responsive design, a sleek user interface, and essential components to deliver a rich user experience.
+
+## Features
+
+- Fully responsive design for seamless viewing on mobile, tablet, and desktop.
+- Footer with navigation links and social media icons.
+- Inspired by Huly's layout and design principles.
+
+## Tech Stack
+
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Icons:** Lucide React
+- **Tools:** Node.js, npm
 
 ## Getting Started
 
-First, run the development server:
+Follow the steps below to run the project locally:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v14 or later)
+- npm (comes with Node.js)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/hulyclone.git
+   cd hulyclone
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npx next dev
+   ```
+
+4. Open your browser and navigate to:
+   ```
+   http://localhost:3000
+   ```
+
+## Project Structure
+
+```plaintext
+hulyclone/
+├── public/               # Static assets
+├── src/
+│   ├── app/             # Next.js 13+ app directory
+│   ├── components/      # Reusable components
+│   ├── lib/             # Utility functions
+├── .gitignore           # Git ignored files
+├── package.json         # Project metadata and scripts
+├── README.md            # Project documentation
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Customization
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+To customize the footer with your own links and social media profiles:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. Open the `src/components/Footer.js` file.
+2. Replace placeholder URLs with your actual profile links:
 
-## Learn More
+   ```javascript
+   <a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer">
+     <GithubIcon size={18} className="text-gray-300 hover:text-white" />
+   </a>
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+## License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project is licensed under the [MIT License](LICENSE).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Acknowledgments
 
-## Deploy on Vercel
+- Inspired by Huly.
+- Built with Next.js and Tailwind CSS.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# huly-clone
+For questions or feedback, please reach out:
+
+- GitHub: [your-username](https://github.com/your-username)
+- Email: your-email@example.com
+
